@@ -1,0 +1,10 @@
+local
+1. git status - állapot ellenőrzés
+2. git add Neptunkod_0917 - feltöltés vagy ha több fájl van benne, akkor
+3. git add . - feltölti az összes fájlt, ami a Neptunkod_0917-ben van
+4. git commit -m "1 fájl feltöltve" - fel committoltuk a stage-re
+5. git log - látni milyen committok készültek
+6. git shortlog - csak annyi látható
+
+Remote repository
+git push
